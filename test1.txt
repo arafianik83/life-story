@@ -7,4 +7,4 @@ I have completed my SSC in 2015
 Currently I am living in Dhaka,Bashundhara R/A
 I have completed my SSC in 2014
 I started my Devops engineering job May 2023
-
+logo alignment is centered.
